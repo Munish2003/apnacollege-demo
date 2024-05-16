@@ -1,4 +1,5 @@
 # apnacollege-demo
-This is my  apna college repo
+
+This is my apna college repo
 <br>
-Author - Munish kumar
+Author - Munish (Guleria)
